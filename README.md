@@ -15,7 +15,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 ---
 
 ### GitHub pages link   
-![Click to see prjct](https://akshith-github.github.io/github-slideshow/)
+<a href="https://akshith-github.github.io/github-slideshow/">click to view project</a>
 
 > or visit https://akshith-github.github.io/github-slideshow/
 
